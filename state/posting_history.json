@@ -1,3 +1,17 @@
 {
-  "channels": {}
+  "channels": {
+    "6ad4708c778b240e2f45d056": {
+      "history": [
+        {
+          "buffer_post_id": "6ad47e09769b457934b2bb58",
+          "date": "2026-10-18",
+          "day": 1,
+          "due_at": "2026-10-19T03:10:00.000Z",
+          "image": "ad_01.png"
+        }
+      ],
+      "last_queued_date": "2026-10-18",
+      "next_day": 2
+    }
+  }
 }
