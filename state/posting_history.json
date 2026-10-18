@@ -8,10 +8,17 @@
           "day": 1,
           "due_at": "2026-10-19T03:10:00.000Z",
           "image": "ad_01.png"
+        },
+        {
+          "buffer_post_id": "6ad547220a208cb323836c16",
+          "date": "2026-10-19",
+          "day": 2,
+          "due_at": "2026-10-20T03:10:00.000Z",
+          "image": "ad_02.png"
         }
       ],
-      "last_queued_date": "2026-10-18",
-      "next_day": 2
+      "last_queued_date": "2026-10-19",
+      "next_day": 3
     }
   }
 }
