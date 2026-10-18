@@ -1,0 +1,2 @@
+# Daily automatic posting only uses Python's standard library.
+# No pip packages are necessary for automatic posting.
