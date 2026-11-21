@@ -239,10 +239,17 @@
           "day": 4,
           "due_at": "2026-11-21T03:10:00.000Z",
           "image": "ad_04.png"
+        },
+        {
+          "buffer_post_id": "6b00f39bdd205ed779adec32",
+          "date": "2026-11-21",
+          "day": 5,
+          "due_at": "2026-11-22T03:10:00.000Z",
+          "image": "ad_05.png"
         }
       ],
-      "last_queued_date": "2026-11-20",
-      "next_day": 5
+      "last_queued_date": "2026-11-21",
+      "next_day": 6
     }
   }
 }
