@@ -281,10 +281,17 @@
           "day": 10,
           "due_at": "2026-11-27T03:10:00.000Z",
           "image": "ad_10.png"
+        },
+        {
+          "buffer_post_id": "6b08efc1e94385a8fd69530a",
+          "date": "2026-11-27",
+          "day": 11,
+          "due_at": "2026-11-28T03:10:00.000Z",
+          "image": "ad_11.png"
         }
       ],
-      "last_queued_date": "2026-11-26",
-      "next_day": 11
+      "last_queued_date": "2026-11-27",
+      "next_day": 12
     }
   }
 }
